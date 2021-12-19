@@ -1,0 +1,16 @@
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/chessCS
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/chessCS.deps.json
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/chessCS.runtimeconfig.json
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/chessCS.runtimeconfig.dev.json
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/chessCS.dll
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/ref/chessCS.dll
+/home/daniel/Downloads/chessCS/bin/Debug/net5.0/chessCS.pdb
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.csproj.AssemblyReference.cache
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.AssemblyInfoInputs.cache
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.AssemblyInfo.cs
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.csproj.CoreCompileInputs.cache
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.dll
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/ref/chessCS.dll
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.pdb
+/home/daniel/Downloads/chessCS/obj/Debug/net5.0/chessCS.genruntimeconfig.cache
